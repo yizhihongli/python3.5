@@ -16,9 +16,3 @@ help 查看帮助
 #     time.sleep(0.1)
 #     per_str = '\r%s%%:%s' % (i, '*' * i)
 #     print(per_str, end='', flush=True)
-
-
-
-# reverse() 函数
-
-
