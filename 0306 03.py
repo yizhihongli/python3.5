@@ -43,8 +43,3 @@ ret = re.subn('\d', 'H','asdfh454dlkjfgdkjh9009dkljfgn')
 print(ret)  # ('asdfhHHHdlkjfgdkjhHHHHdkljfgn', 7)
 
 
-
-
-
-
-
