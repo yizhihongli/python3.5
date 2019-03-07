@@ -1,0 +1,2 @@
+def getMysql():
+    print("mysql")

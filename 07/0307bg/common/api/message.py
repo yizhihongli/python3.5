@@ -1,0 +1,2 @@
+def getMessage():
+    print("message")

@@ -1,0 +1,2 @@
+def getOrical():
+    print("orical")
